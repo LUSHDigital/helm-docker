@@ -1,6 +1,6 @@
 FROM google/cloud-sdk
 
-MAINTAINER Trevor Hartman <trevorhartman@gmail.com>
+MAINTAINER Simon Ince <simon.ince@lush.co.uk>
 
 ENV VERSION v2.2.2
 ENV FILENAME helm-${VERSION}-linux-amd64.tar.gz
