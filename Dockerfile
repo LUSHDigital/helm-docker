@@ -2,7 +2,7 @@ FROM google/cloud-sdk
 
 MAINTAINER Trevor Hartman <trevorhartman@gmail.com>
 
-ENV VERSION v2.0.0-alpha.4
+ENV VERSION v2.0.0
 ENV FILENAME helm-${VERSION}-linux-amd64.tar.gz
 
 WORKDIR /
